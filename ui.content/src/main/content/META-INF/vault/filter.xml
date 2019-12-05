@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/content/AEM62App"/>
+    <filter root="/content/dam/AEM62App"/>
+    <filter root="/apps/SlingModel62"/>
+    <filter root="/content/SlingModel62"/>
+    <filter root="/content/testsling"/>
+</workspaceFilter>
