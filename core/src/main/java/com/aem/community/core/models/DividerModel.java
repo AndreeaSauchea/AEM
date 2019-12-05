@@ -8,13 +8,7 @@ import org.apache.sling.models.annotations.DefaultInjectionStrategy;
 
 @Model(adaptables= Resource.class, defaultInjectionStrategy = DefaultInjectionStrategy.OPTIONAL)
 public class DividerModel {
-
     @Inject
-    @Named("sling:resourceType")
-    protected String resourceType;
-
-    @Inject
-    @Named("color")
     protected String color;
 
     public String getColor() {
