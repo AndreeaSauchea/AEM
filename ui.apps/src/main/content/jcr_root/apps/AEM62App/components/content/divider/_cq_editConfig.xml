@@ -9,7 +9,7 @@
                 propertyName="./fileReference">
             <parameters
                     jcr:primaryType="nt:unstructured"
-                    sling:resourceType="AEM62App/components/content/imageandreea"
+                    sling:resourceType="AEM62App/components/content/divider"
                     imageCrop=""
                     imageMap=""
                     imageRotate=""/>
